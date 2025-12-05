@@ -1,0 +1,8 @@
+{
+  "name": "Laptop XYZ",
+  "description": "Laptop gamer 15 pulgadas",
+  "price": 19999.99,
+  "currency": "MXN",
+  "stock": 10,
+  "categoryId": "electronics"
+}
